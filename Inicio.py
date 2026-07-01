@@ -1,1 +1,1 @@
-screan.
+screan()
